@@ -1,0 +1,9 @@
+{
+  "root": ".",
+  "https_only": true,
+  "headers": {
+    "/**": {
+      "Cache-Control": "no-cache"
+    }
+  }
+}
