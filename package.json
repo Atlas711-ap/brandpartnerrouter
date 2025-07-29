@@ -1,0 +1,12 @@
+{
+  "name": "brandpartnerrouter",
+  "version": "1.0.0",
+  "description": "Brand Partner Router App",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p $PORT"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
